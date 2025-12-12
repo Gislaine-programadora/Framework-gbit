@@ -75,6 +75,7 @@ npx create-gbit-app@Latest meu-projeto
 
 <img width="726" height="623" alt="image" src="https://github.com/user-attachments/assets/5207bb62-a58b-402b-af91-63297dcc2d4e" />
 
+<img width="1536" height="1024" alt="ChatGPT Image 12 de dez  de 2025, 20_04_50" src="https://github.com/user-attachments/assets/5c7a6827-0afd-4201-9843-be237c10ed49" />
 
 
 ## ✨ Features
