@@ -87,7 +87,7 @@ npx create-gbit-app@Latest meu-projeto
 
 O Gbit Framework é uma ferramenta CLI que permite criar aplicações full stack completas em minutos, incluindo:
 
-<img width="1000" height="700" alt="ChatGPT Image 12 de dez  de 2025, 20_04_50" src="https://github.com/user-attachments/assets/24725ce8-fb73-43cf-9864-7f23ea77734b" />
+<img width="700" height="700" alt="ChatGPT Image 12 de dez  de 2025, 20_04_50" src="https://github.com/user-attachments/assets/24725ce8-fb73-43cf-9864-7f23ea77734b" />
 
 
 ## https://github.com/Gislaine-programadora/flamework-gbit/blob/main/LICENSE
