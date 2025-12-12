@@ -75,8 +75,6 @@ npx create-gbit-app@Latest meu-projeto
 
 <img width="726" height="623" alt="image" src="https://github.com/user-attachments/assets/5207bb62-a58b-402b-af91-63297dcc2d4e" />
 
-<img width="200" height="200" alt="ChatGPT Image 12 de dez  de 2025, 20_04_50" src="https://github.com/user-attachments/assets/5c7a6827-0afd-4201-9843-be237c10ed49" />
-
 
 ## ✨ Features
 
@@ -89,6 +87,8 @@ npx create-gbit-app@Latest meu-projeto
 
 O Gbit Framework é uma ferramenta CLI que permite criar aplicações full stack completas em minutos, incluindo:
 ##  https://gislaine-programadora.github.io/Framework-gbit/
+<img width="500" height="500" alt="ChatGPT Image 12 de dez  de 2025, 20_04_50" src="https://github.com/user-attachments/assets/24725ce8-fb73-43cf-9864-7f23ea77734b" />
+
 
 ## https://github.com/Gislaine-programadora/flamework-gbit/blob/main/LICENSE
 
