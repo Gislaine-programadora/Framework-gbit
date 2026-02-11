@@ -6,7 +6,7 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gislaine-programadora/web3gbit-cli.git"
+    "url": "git+https://github.com/gislaine-programadoraframework-gbit.git"
   },
   "bin": {
     "create-gbit-app": "./bin/create-gbit.js"
