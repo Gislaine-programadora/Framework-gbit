@@ -3,6 +3,11 @@
   "version": "1.0.2",
   "description": "CLI para criar aplicações completas com Gbit Framework - Backend, Frontend e Smart Contracts",
   "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gislaine-programadora/web3gbit-cli.git"
+  },
   "bin": {
     "create-gbit-app": "./bin/create-gbit.js"
   },
