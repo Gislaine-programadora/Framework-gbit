@@ -1,4 +1,39 @@
 <div align="center">
+
+  <img src="./src/assets/gbit-logo.png" alt="Gbit Framework Logo" width="200" height="200" />
+
+  <br/>
+
+  <!-- Linha 1 - Status do Projeto -->
+  <p>
+    <img src="https://img.shields.io/npm/v/create-gbit-app?style=for-the-badge&logo=npm" />
+    <img src="https://img.shields.io/npm/l/create-gbit-app?style=for-the-badge" />
+    <img src="https://img.shields.io/npm/dt/create-gbit-app?style=for-the-badge&logo=npm" />
+    <img src="https://img.shields.io/github/stars/Gislaine-programadora/create-gbit-app?style=for-the-badge&logo=github" />
+  </p>
+
+  <!-- Linha 2 - Stack Principal -->
+  <p>
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  </p>
+
+  <br/>
+
+  <h1>🚀 Gbit Framework</h1>
+
+  <p><strong>The All-in-One Modern Project Generator</strong></p>
+  <p>Crie aplicações completas — Frontend, Backend e Smart Contracts — prontas para produção.</p>
+
+</div>
+
+---
+
+#####
+<div align="center">
   <img src="./src/assets/gbit-logo.png" alt="Gbit Framework Logo" width="200" height="200" />
 
   <!-- Linha 1 - Badges principais -->
