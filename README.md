@@ -1,6 +1,6 @@
 
 <img width="464" height="190" alt="image" src="https://github.com/user-attachments/assets/89574450-aa72-4c20-99db-a829ef83dec4" />
-
+```
 
 <div align="center">
   <img src="./src/assets/gbit-logo.png" alt="Gbit Framework Logo" width="192" height="192" />
