@@ -288,11 +288,11 @@ yarn create gbit-app meu-projeto
 
 <div align="center">
   
-  <img width="1024" alt="Gbit Framework Demo" src="https://github.com/user-attachments/assets/57d2e542-c9a9-4651-93e9-cfa9be5c8a0f" />
+  <img width="124" alt="Gbit Framework Demo" src="https://github.com/user-attachments/assets/57d2e542-c9a9-4651-93e9-cfa9be5c8a0f" />
   
   <br /><br />
   
-  <img width="600" alt="Gbit Architecture" src="https://github.com/user-attachments/assets/24725ce8-fb73-43cf-9864-7f23ea77734b" />
+  <img width="300" alt="Gbit Architecture" src="https://github.com/user-attachments/assets/24725ce8-fb73-43cf-9864-7f23ea77734b" />
   
 </div>
 
