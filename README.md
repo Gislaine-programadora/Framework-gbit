@@ -1,4 +1,67 @@
+<div align="center">
+  <img src="./src/assets/gbit-logo.png" alt="Gbit Framework Logo" width="200" height="200" />
 
+  <!-- Linha 1 - Badges principais -->
+  <p>
+    <img src="https://img.shields.io/npm/v/create-gbit-app?style=for-the-badge&logo=npm&color=CB3837" />
+    <img src="https://img.shields.io/npm/l/create-gbit-app?style=for-the-badge&color=green" />
+    <img src="https://img.shields.io/npm/dt/create-gbit-app?style=for-the-badge&logo=npm&color=orange" />
+    <img src="https://img.shields.io/github/stars/Gislaine-programadora/create-gbit-app?style=for-the-badge&logo=github&color=yellow" />
+  </p>
+
+  <!-- Linha 2 - Tecnologias Core -->
+  <p>
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  </p>
+
+  <!-- Linha 3 - Backend & Web3 -->
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  </p>
+
+  <!-- Linha 4 - Status -->
+  <p>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/CLI-Ready-blueviolet?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Fullstack-Ready-success?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Web3-Enabled-9333ea?style=for-the-badge" />
+  </p>
+
+  <h1>🚀 Gbit Framework</h1>
+
+  <p><strong>The All-in-One Modern Project Generator</strong></p>
+  <p>Crie aplicações completas — Frontend, Backend e Smart Contracts — prontas para produção em minutos.</p>
+
+  <br />
+
+  <!-- Botões de ação -->
+  <p>
+    <a href="#-instalação">
+      <img src="https://img.shields.io/badge/Instalar_Agora-1a73e8?style=for-the-badge&logo=npm&logoColor=white" />
+    </a>
+    <a href="#-início-rápido">
+      <img src="https://img.shields.io/badge/Ver_Demo-10b981?style=for-the-badge&logo=rocket&logoColor=white" />
+    </a>
+    <a href="https://github.com/Gislaine-programadora/create-gbit-app">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://portfolio.metamask.io" target="_blank">
+      <img src="https://img.shields.io/badge/MetaMask_Portfolio-f97316?style=for-the-badge&logo=metamask&logoColor=white" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+
+#####
 <div align="center">
   <img src="./src/assets/gbit-logo.png" alt="Gbit Framework Logo" width="200" height="200" />
   
