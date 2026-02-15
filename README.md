@@ -45,11 +45,11 @@ npx create-gbit-app "meu-projeto"
 
 ```bash
 # Criar novo projeto (recomendado)
-npx create-gbit-app@latest meu-projeto
+npx create-gbit-app meu-projeto
 
 # Ou instalar globalmente
 npm install -g create-gbit-app
-create-gbit-app meu-projeto
+
 ```
 
 ### 📺 Visual do Terminal
