@@ -19,6 +19,9 @@
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+    
+     [![NPM Version](https://img.shields.io/npm/v/create-gbit-app?style=for-the-badge&logo=npm&color=CB3837)](https://www.npmjs.com/package/create-gbit-app)
+  [![License](https://img.shields.io/npm/l/create-gbit-app?style=for-the-badge&color=green)](https://github.com/Gislaine-programadora/create-gbit-app/blob/main/LICENSE)
   </p>
   
   <br/>
