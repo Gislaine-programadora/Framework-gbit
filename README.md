@@ -5,7 +5,8 @@
   <img src="./src/assets/gbit-logo.png" alt="Gbit Framework Logo" width="192" height="192" />
 </div>
  <div align="center">
-
+   
+[![npm version](https://img.shields.io/npm/v/create-gbit-app.svg)](https://www.npmjs.com/package/create-gbit-app)
 
 ## GBit — The All-in-One Modern Project GeneratoR
   
