@@ -196,7 +196,7 @@ MIT
 
 **Criado com ❤️ usando Gbit Framework**
 ````
-
+````
 [Website](https://gbitframework.com) • [Documentação](https://docs.gbitframework.com) • [GitHub](https://github.com/gislaine-programadora/create-gbit-app)
 
 </div>
