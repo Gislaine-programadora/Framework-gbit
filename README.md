@@ -34,24 +34,7 @@ GBit also comes with an optimized build tool:
 ```bash
  npx gbit-build
 ```
-💡 Open Source | Fast | Modern | Developer-Gbit
 
-
-<div align="center">
-
-
-
-<h1>Gbit Framework</h1> <p>Crie aplicações completas — Frontend, Backend e Smart Contracts — prontas para produção.</p>
-
-<a href="#instalação" style="text-decoration:none;"> <img src="https://img.shields.io/badge/Instalar-agora-1a73e8?style=for-the-badge&logo=npm&logoColor=white" alt="Instalar agora"> </a> <a href="#demo" style="text-decoration:none;"> <img src="https://img.shields.io/badge/Ver%20demo-10b981?style=for-the-badge" alt="Ver demo"> </a> <a href="https://portfolio.metamask.io" target="_blank" style="text-decoration:none;"> <img src="https://img.shields.io/badge/MetaMask%20Portfolio-f97316?style=for-the-badge&logo=metamask&logoColor=white" alt="MetaMask Portfolio"> </a>
-
-</div>
-
-
-
-  ##  GBit — The All-in-One Modern Project Generator
-  
-GBit is a powerful open-source tool designed for modern developers. With a single command, it creates a complete project structure — including backend, frontend, and smart contracts — ready to build and deploy.
 
 Use the command:
 
