@@ -184,6 +184,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 #npm
 
 ## 📄 Licença
+````
 
 [![npm version](https://img.shields.io/npm/v/create-gbit-app.svg)](https://www.npmjs.com/package/create-gbit-app)
 
@@ -194,6 +195,7 @@ MIT
 <div align="center">
 
 **Criado com ❤️ usando Gbit Framework**
+````
 
 [Website](https://gbitframework.com) • [Documentação](https://docs.gbitframework.com) • [GitHub](https://github.com/gislaine-programadora/create-gbit-app)
 
