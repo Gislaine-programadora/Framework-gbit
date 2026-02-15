@@ -6,6 +6,8 @@
 </div>
  <div align="center">
    
+[![NPM Version](https://img.shields.io/npm/v/create-gbit-app.svg)](https://www.npmjs.com/package/create-gbit-app)
+[![License](https://img.shields.io/npm/l/create-gbit-app.svg)](https://github.com/Gislaine-programadora/create-gbit-app/blob/main/LICENSE)   
 [![npm version](https://img.shields.io/npm/v/create-gbit-app.svg)](https://www.npmjs.com/package/create-gbit-app)
 
 ## GBit — The All-in-One Modern Project GeneratoR
@@ -38,11 +40,6 @@ GBit also comes with an optimized build tool:
 
 
 
-# Gbit  Framework  
-
-[![npm version](https://img.shields.io/npm/v/create-gbit-app.svg)](https://www.npmjs.com/package/create-gbit-app)
-
-
   ##  GBit — The All-in-One Modern Project Generator
   
 GBit is a powerful open-source tool designed for modern developers. With a single command, it creates a complete project structure — including backend, frontend, and smart contracts — ready to build and deploy.
@@ -62,10 +59,7 @@ GBit also comes with an optimized build tool:
 
 ### Crie aplicações completas — Backend, Frontend e Smart Contracts
 
-[![NPM Version](https://img.shields.io/npm/v/create-gbit-app.svg)](https://www.npmjs.com/package/create-gbit-app)
-[![License](https://img.shields.io/npm/l/create-gbit-app.svg)](https://github.com/Gislaine-programadora/create-gbit-app/blob/main/LICENSE)
 
-</div>
 
 ## 🚀 Início Rápido
 
