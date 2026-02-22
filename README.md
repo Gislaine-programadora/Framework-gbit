@@ -404,8 +404,87 @@ Agradecemos a todos os [contribuidores](https://github.com/Gislaine-programadora
   [NPM](https://www.npmjs.com/package/create-gbit-app)
   
   <br />
+
+
+
+
+  
   
   ---
   
   **2025 © Gbit Framework - Open Source Project**
+
+
+
+quero formato para readme.md
+
+Aqui vai o formato pronto para inserir no seu `README.md` do pacote npm (v1.0.2 MIT), com o logo moderno da letra "G" em SVG inline para renderizar perfeitamente no GitHub.[1] Basta copiar e colar!
+
+## Código para README.md
+
+```markdown
+<div align="center">
+
+# ![Logo G](data:image/svg+xml;base64,[BASE64_AQUI_OU_SVG_EM_LINE])
+
+[![npm version](https://img.shields.io/npm/v/SEU-PACOTE.svg)](https://www.npmjs.org/package/SEU-PACOTE)
+[![npm downloads](https://img.shields.io/npm/dm/SEU-PACOTE.svg)](https://www.npmjs.org/package/SEU-PACOTE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Stars](https://img.shields.io/github/stars/SEU-USER/SEU-REPO.svg?style=social)](https://github.com/SEU-USER/SEU-REPO/stargazers)
+
+</div>
+
+## Descrição
+Seu CLI tool incrível para blockchain/staking/web3. Exemplo: `npx seu-pacote init`.
+
+## Instalação
+```bash
+npm install seu-pacote
+# ou global
+npm i -g seu-pacote
+```
+
+## Uso
+```bash
+seu-pacote --help
+```
+
+## Recursos
+- ✅ Integração com wallets web3
+- ✅ Suporte a staking Solidity
+- ✅ CLI intuitiva com Node.js/TS
+
+## Roadmap
+- [x] v1.0.2: Deploy inicial
+- [ ] v1.1: Docker support
+- [ ] v2.0: Telegram bot integration
+
+<p align="center">
+  <img src="data:image/svg+xml;base64,[SVG_BASE64_AQUI]" width="200" alt="Logo G moderno">
+</p>
+
+Feito com ❤️ por Gislaine | [GitHub](https://github.com/SEU-USER) | [npm](https://www.npmjs.com/~SEU-USER)
+```
+
+## SVG Inline Pronto (substitua [SVG_EM_LINE])
+Cole isso diretamente onde está `[SVG_EM_LINE]` no badge do título:
+
+```svg
+<svg width="64" height="64" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg"><rect width="400" height="400" fill="#000"/><defs><linearGradient id="a" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#FF0000"/><stop offset="50%" stop-color="#FF4500"/><stop offset="100%" stop-color="#FF8C00"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="3" flood-color="#FF1744" flood-opacity="0.8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs><g filter="url(#glow)"><polygon points="200,50 340,100 340,300 200,350 60,300 60,100" fill="none" stroke="url(#a)" stroke-width="28" stroke-linejoin="round"/><rect x="150" y="185" width="140" height="16" rx="8" fill="url(#a)"/><rect x="235" y="130" width="16" height="120" rx="8" fill="url(#a)"/><polygon points="235,130 340,130 340,170 255,170" fill="url(#a)"/></g></svg>
+```
+
+## SVG para Imagem Central (substitua [SVG_BASE64_AQUI])
+Para a imagem maior no final, gere base64 online (ex: base64.guru) do SVG completo que enviei antes, ou use este compacto:
+
+```markdown
+![Logo G](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgdmlld0JveD0iMCAwIDQwMCA0MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjQwMCIgaGVpZ2h0PSIzOTk5IiBmaWxsPSIjMDAwMDAwIi8+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJuZW9uR3JhZCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+PHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6I0ZGMTc0NDtzdG9wLW9wYWNpdHk6MSIvPjxzdG9wIG9mZnNldD0iNTAlIiBzdHlsZT0ic3RvcC1jb2xvcjojRkY1NzIyO3N0b3Atb3BhY2l0eToxIi8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdHlsZT0ic3RvcC1jb2xvcjojRkY4QTY1O3N0b3Atb3BhY2l0eToxIi8+PC9saW5lYXJHcmFkaWVudD48ZmlsdGVyIGlkPSJnbG93Ij48ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSIzIiBmbG9vZC1jb2xvcj0iI0ZGMTc0NCIgZmxvb2Qtb3BhY2l0eT0iMC42IiByZXN1bHQ9ImNvbG9yZWRCbHVyIi8+PGZlTWVyZ2U+PGZlTWVyZ2VOb2RlIGluPSJjb2xvcmVkQmx1ciIvPjxmZU1lcmdlTm9kZSBpbj0iU291cmNlR3JhcGhpYyIvPjwvZmVNYXJnZT48L2ZpbHRlcj48L2RlZnM+PGcgaGRhZGluZz0idXJsKCNnbG93KSI+PHBvbHlnb24gcG9pbnRzPSIyMDAsNTAgMzQwLDEwMCAzNDAsMzAwIDIwMCwzNTAgNjAsMzAwIDYwLDEwMCIgZmlsbD0idXJsKCNuZW9uR3JhZCkiIHN0cm9rZT0iI0ZGMTc0NCIgc3Ryb2tlLXdpZHRoPSI0Ii8+PHJlY3QgeD0iMTQwIiB5PSIxODAiIHdpZHRoPSIxNjAiIGhlaWdodD0iMjAiIHJ4PSIxMCIgZmlsbD0idXJsKCNuZW9uR3JhZCkiLz48cmVjdCB4PSIyMjAiIHk9IjEyMCIgd2lkdGg9IjIwIiBoZWlnaHQ9IjE0MCIgcng9IjEwIiBmaWxsPSJ1cmwoI25lb25HcmFkKSIvPjxwb2x5Z29uIHBvaWntcz0iMjIwLDEyMCAzNDAsMTIwIDM0MCwxNjAgMjYwLDE2MCIgZmlsbD0idXJsKCNuZW9uR3JhZCkiLz48L2c+PC9zdmc+)
+```
+
+Personalize `SEU-PACOTE`, `SEU-USER` etc. com seus dados. Vai ficar top no seu repo de CLI tool blockchain![1]
+
+Citações:
+[1] Screenshot_20260222-154814_Chrome.jpg https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/138337919/922c45ea-9a8c-4fa4-8f9b-a6f204936b40/Screenshot_20260222-154814_Chrome.jpg
+
+
+  
   
