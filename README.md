@@ -295,7 +295,7 @@ yarn create gbit-app meu-projeto
 ### 1. Criar Projeto
 
 ```bash
-npx create-gbit-app@latest meu-app
+npx create-gbit-app meu-app
 ```
 
 ### 2. Escolher Stack
@@ -416,11 +416,7 @@ Agradecemos a todos os [contribuidores](https://github.com/Gislaine-programadora
 
 
 
-quero formato para readme.md
-
-Aqui vai o formato pronto para inserir no seu `README.md` do pacote npm (v1.0.2 MIT), com o logo moderno da letra "G" em SVG inline para renderizar perfeitamente no GitHub.[1] Basta copiar e colar!
-
-## Código para README.md
+---
 
 ```markdown
 <div align="center">
