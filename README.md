@@ -257,7 +257,7 @@ yarn create gbit-app meu-projeto
 
 ---
 
-## 📸 Screenshots & Demos
+## 📸 Screenshots
 
 <div align="center">
   
