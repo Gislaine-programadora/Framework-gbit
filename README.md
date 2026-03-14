@@ -231,7 +231,7 @@ O **gbit-build** automatiza:
 ### Via NPX (Recomendado)
 
 ```bash
-npx create-gbit-app@latest meu-projeto
+npx create-gbit-app meu-projeto
 ```
 
 ### Instalação Global
