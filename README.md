@@ -1,8 +1,11 @@
 <div align="center">
+  <img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/e9463d02-e031-4787-99c5-cda9767b1dd6" />
 
-  <img src="./src/assets/gbit-logo.png" alt="Gbit Framework Logo" width="200" height="200" />
 
   <br/>
+
+
+
 
   <!-- Linha 1 - Status do Projeto -->
   <p>
