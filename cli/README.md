@@ -164,7 +164,7 @@ Crie aplicações completas — Backend, Frontend e Smart Contracts — prontas 
 ### 1. Criar Projeto
 
 ```bash
-npx create-gbit-app@latest meu-app
+npx create-gbit-app  meu-app
 cd meu-app
 ```
 
