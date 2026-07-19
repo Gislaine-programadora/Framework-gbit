@@ -32,7 +32,7 @@ O **Gbit Framework** é uma solução moderna e modular para criar aplicações 
 ### 🔹 Uso Direto (Recomendado)
 
 ```bash
-npx create-gbit-app@latest meu-projeto
+npx create-gbit-app meu-projeto
 
 
 
@@ -54,7 +54,7 @@ npx create-gbit-app@latest meu-projeto
 
 ```bash
 npm install -g create-gbit-app
-create-gbit-app meu-projeto
+npx create-gbit-app meu-projeto
 ```
 
 ## 🎯 Características
