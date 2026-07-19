@@ -1,7 +1,9 @@
 # 🚀 Gbit Framework
 
 <div align="center">
-  <img src="../src/assets/gbit-logo.png" alt="Gbit Framework Logo" width="192" height="192" />
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/ffe2ba5f-3479-4196-b04f-c3393637bdc9" />
+
 </div>
 
 
