@@ -27,6 +27,7 @@
 
 **Gbit** é uma poderosa ferramenta **open-source** projetada para desenvolvedores modernos. Com um único comando, você cria uma estrutura completa de projeto — incluindo **backend**, **frontend** e **smart contracts** — pronta para construir e fazer deploy.
 
+
 ```bash
 npx create-gbit-app "meu-projeto"
 ```
